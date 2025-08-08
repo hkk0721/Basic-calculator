@@ -32,12 +32,11 @@ button:hover {
     background-color: #362733;
     color: pink;
 }
-
 button:active {
     box-shadow: #4d2844 inset;
     background-color: #551e4d;
 }
-.Calculator {
+.calculator {
     width: 450px;
     height: 570px;
     padding: 20px;
@@ -47,6 +46,7 @@ button:active {
 }
 body {
     height: 100vh;
+    margin: 0;
     display: flex;
     justify-content: center;
     align-items: center;

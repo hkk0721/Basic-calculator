@@ -11,6 +11,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 - Clear (`C`)
 - Modern UI using CSS Grid
 - Responsive display
+- Keyboard support
 
 ---
 
@@ -18,7 +19,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 - **HTML5** – Structure of the calculator
 - **CSS3** – Styling and layout (Grid)
-- **JavaScript** – Button handling, display update, and expression evaluation
+- **JavaScript** – Button handling, display update, expression evaluation, and keyboard support
 
 ---
 
@@ -40,3 +41,4 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ```bash
 git clone https://github.com/hkk0721/Basic-calculator.git
+
